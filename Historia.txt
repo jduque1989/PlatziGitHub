@@ -1,6 +1,8 @@
 Soy Juan David Duque 
 
 Quiero impactaar el mundo de manera positiva, tengo una esposa y una hija y estoy 
-aprendiendo a manerar el sistema de control de versiones de Git 
+aprendiendo a manerar el sistema de control de versiones de Git.
+
+Tengo 31 años
 
 Aprendamos.
